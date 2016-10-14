@@ -2,13 +2,13 @@
  <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->  
  <widget xmlns   = "http://www.w3.org/ns/widgets"  
      xmlns:gap = "http://phonegap.com/ns/1.0"  
-     id    = "com.phonegap.3DSApp"  
-     version  = "1.0.0">  
-   <name>3DSApp</name>  
+     id    = "com.phonegap.AppInchapel"  
+     version  = "2.1.0">  
+   <name>AppInchapel</name>  
    <description>  
-     Mi primera aplicación híbrida
+     Mi primera aplicacion hibrida para inchapel
    </description>  
-   <author href="http://appositivas.blogspot.com" email="appositivas@gmail.com">  
+   <author href="http://www.dan.pierce077.com" email="dan.pierce077@gmail.com">  
      Appositivas  
    </author>  
    <!--  
